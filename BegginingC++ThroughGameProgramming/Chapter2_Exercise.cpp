@@ -56,7 +56,7 @@ void guessMyNumber()
 	cout << "I guessed it in" << count << "guesses";
 }
 
-int main()
+int main2()
 {
 	menuChooser();
 	guessMyNumber();
